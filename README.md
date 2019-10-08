@@ -7,8 +7,8 @@ The participants are required to clone this repository and create a private Gitl
 ----------------------------------
 
 A brief description of 
-..* What problem did the team try to solve
-..* What is the proposed solution
+* What problem did the team try to solve
+* What is the proposed solution
 
 ### Solution Description
 ----------------------------------
@@ -20,9 +20,9 @@ Affix an image of the flow diagram/architecture diagram of the solution
 ## Technical Description
 
 An overview of 
-..* What technologies/versions were used
-..* Setup/Installations required to run the solution
-..* Instructions to run the submitted code
+* What technologies/versions were used
+* Setup/Installations required to run the solution
+* Instructions to run the submitted code
 
 ### Team Members
 ----------------------------------

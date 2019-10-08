@@ -2,5 +2,5 @@
 ----------------------------------
 
 An overview of 
-..* Code components and their functionality 
-..* Data sources (if any)
+* Code components and their functionality 
+* Data sources (if any)

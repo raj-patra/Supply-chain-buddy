@@ -1,5 +1,4 @@
 ## Application Code Description
-----------------------------------
 
 An overview of 
 * Code components and their functionality 

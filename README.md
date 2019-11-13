@@ -48,16 +48,17 @@ List of team member names and email IDs with their contributions
 
 1.  Raj Kishore Patra
     * Email ID - rajpatra.kishore@gmail.com 
+    
     * Contribution - Modelled and trained the ChatBot for a fully conversational support assisstant and designed the GUI for the same.
-
 2.  Kaushik Gupta
     * Email ID - kaushik071998@gmail.com 
+    
     * Contribution - Designed the AR models to explain Supply Chain effectively and rendered them using Google Play Services for AR.
-
 3.  Abhijit Mukherjee
     * Email ID - amiabhijit54@gmail.com 
+    
     * Contribution - Conceptualized and created the structure of the UI, the workflow and series of events that one will experience in the UI.
-
 4.  Akash Mahajan
     * Email ID - akashmahajan0898@gmail.com 
+    
     * Contribution - Responsible for the CSS styling of the UI and creation of the User Education panel of UI with all its functionalities.
